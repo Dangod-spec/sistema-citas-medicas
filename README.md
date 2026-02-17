@@ -72,3 +72,15 @@ Las grabaciones reposan como evidencia del trabajo de campo realizado.
 - Los entrevistados coinciden en que el mayor problema es la espera sin información.
 - Ninguno conoce una app local que gestione citas médicas con notificaciones.
 - Todos expresaron disposición a usar una solución digital si fuera simple y rápida.
+
+---
+
+## Evidencia de Entrevistas Presenciales
+
+Se realizaron 4 entrevistas físicas como parte del proceso de discovery.
+Las grabaciones reposan como evidencia del trabajo de campo realizado.
+
+**Hallazgos clave de las entrevistas:**
+- Los entrevistados coinciden en que el mayor problema es la espera sin información.
+- Ninguno conoce una app local que gestione citas médicas con notificaciones.
+- Todos expresaron disposición a usar una solución digital si fuera simple y rápida.
