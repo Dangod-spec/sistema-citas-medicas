@@ -1,4 +1,4 @@
-# 🏥 MediCita — Gestión Inteligente de Citas Médicas
+# MediCita — Gestión inteligente de citas médicas
 
 ## Sección A: Evidencia de Campo (Discovery)
 
@@ -78,6 +78,9 @@ Las grabaciones reposan como evidencia del trabajo de campo realizado.
 ## Evidencia de Entrevistas Presenciales
 
 Se realizaron 4 entrevistas físicas como parte del proceso de discovery.
+**Evidencia de audio de las entrevistas:**
+
+[Ver grabaciones en Google Drive](https://drive.google.com/drive/folders/1pFsCxftz5-J2OteGXfft7Yqhxqz8hXEk?usp=drive_link)
 
 | # | Entrevistado | Área | Frecuencia | Dolor Principal |
 |---|---|---|---|---|
