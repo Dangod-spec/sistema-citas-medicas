@@ -84,3 +84,6 @@ Las grabaciones reposan como evidencia del trabajo de campo realizado.
 - Los entrevistados coinciden en que el mayor problema es la espera sin información.
 - Ninguno conoce una app local que gestione citas médicas con notificaciones.
 - Todos expresaron disposición a usar una solución digital si fuera simple y rápida.
+
+---
+*Documentación generada como parte del Taller de Arquitectura de Software.*
