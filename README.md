@@ -78,12 +78,24 @@ Las grabaciones reposan como evidencia del trabajo de campo realizado.
 ## Evidencia de Entrevistas Presenciales
 
 Se realizaron 4 entrevistas físicas como parte del proceso de discovery.
-Las grabaciones reposan como evidencia del trabajo de campo realizado.
 
-**Hallazgos clave de las entrevistas:**
-- Los entrevistados coinciden en que el mayor problema es la espera sin información.
-- Ninguno conoce una app local que gestione citas médicas con notificaciones.
-- Todos expresaron disposición a usar una solución digital si fuera simple y rápida.
+| # | Entrevistado | Área | Frecuencia | Dolor Principal |
+|---|---|---|---|---|
+| 1 | José Maya | Coordinación | Todo el tiempo | No logra coordinar horarios con su grupo universitario |
+| 2 | Samuel González | Salud y Bienestar | Ocasional | Esperó 2 horas por falla en el sistema al validar su cita |
+| 3 | Juan Diego | Trámites y Burocracia | Siempre | Esperó 6 horas para sacar la cédula y nunca hubo sistema |
+| 4 | Juan Daniel | Trámites y Burocracia | Muy seguido | Gastó 4 horas intentando pagar la matrícula por errores del portal |
 
----
-*Documentación generada como parte del Taller de Arquitectura de Software.*
+**Frases más impactantes:**
+
+> *"Esperé tres horas, me dijeron que no había sistema, esperé otras tres y tampoco. Me fui habiendo perdido seis horas para nada."* — Juan Diego
+
+> *"Por más de llegar temprano e intentar adelantar el proceso, fue imposible. Dependíamos de que se solucionara el problema."* — Samuel González
+
+> *"Hoy me gasté cuatro horas intentando realizar un pago y siempre hay trabas para todos los trámites."* — Juan Daniel
+
+**Conclusión del campo:**
+El 75% de los entrevistados presenciales sufre problemas con sistemas digitales
+lentos, caídos o mal diseñados, tanto en salud como en trámites administrativos.
+La solución soñada en común es: autogestión digital sin depender de intervención
+humana ni filas físicas.
