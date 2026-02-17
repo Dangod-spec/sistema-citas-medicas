@@ -7,7 +7,7 @@ Los usuarios pierden horas esperando citas médicas por sistemas colapsados, lar
 y falta de avisos oportunos. El proceso es manual, ineficiente y frustrante.
 
 ### Resultados de la Sonda
-**Enlace al formulario:** [Encuesta de optimización de procesos](https://forms.cloud.       microsoft/Pages/AnalysisPage.aspx?AnalyzerToken=lAXUkvAyX3JuS1A5GFwxckBKYJNZK5TK&   id=-4HJLoOSoEOaOTMy_FTXdHj6TixbYD1CkDiEX2NI1RBUOVBERzBLNDNXREVUUVVQNlRFVlZRRlJNWC4u)
+**Enlace al formulario:** [Encuesta de optimización de procesos](https://forms.cloud.microsoft/Pages/AnalysisPage.aspx?AnalyzerToken=lAXUkvAyX3JuS1A5GFwxckBKYJNZK5TK&id=-4HJLoOSoEOaOTMy_FTXdHj6TixbYD1CkDiEX2NI1RBUOVBERzBLNDNXREVUUVVQNlRFVlZRRlJNWC4u)
 
 **Resumen de datos obtenidos (19 respuestas):**
 - El **37% de los encuestados** identifica Salud y Bienestar como su área de mayor pérdida de tiempo.
