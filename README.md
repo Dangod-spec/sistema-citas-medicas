@@ -1,12 +1,12 @@
 # MediCita — Gestión inteligente de citas médicas
 
-## Sección A: Evidencia de Campo (Discovery)
+## Sección A: Evidencia de campo
 
-### El Problema
+### El problema
 Los usuarios pierden horas esperando citas médicas por sistemas colapsados, largas filas
 y falta de avisos oportunos. El proceso es manual, ineficiente y frustrante.
 
-### Resultados de la Sonda
+### Resultados de la sonda
 **Enlace de los resultados del formulario:** [Encuesta de optimización de procesos](https://forms.cloud.microsoft/Pages/AnalysisPage.aspx?AnalyzerToken=lAXUkvAyX3JuS1A5GFwxckBKYJNZK5TK&id=-4HJLoOSoEOaOTMy_FTXdHj6TixbYD1CkDiEX2NI1RBUOVBERzBLNDNXREVUUVVQNlRFVlZRRlJNWC4u)
 
 **Resumen de datos obtenidos (19 respuestas):**
@@ -20,17 +20,17 @@ y falta de avisos oportunos. El proceso es manual, ineficiente y frustrante.
 
 ---
 
-## Sección B: Definición de Requisitos (Definition)
+## Sección B: Definición de requisitos 
 
-### Historia de Usuario Principal
+### Historia de usuario principal
 
-> **Como** paciente que necesita atención médica, **quiero** agendar y gestionar mis
-> citas médicas desde una app, **para** evitar filas, llamadas sin respuesta y recibir
+> Como paciente que necesita atención médica, quiero agendar y gestionar mis
+> citas médicas desde una app, para evitar filas, llamadas sin respuesta y recibir
 > un aviso antes de mi turno.
 
 ---
 
-### Criterios de Aceptación
+### Criterios de aceptación
 
 1. El sistema debe enviar una notificación al celular del usuario con al menos
    15 minutos de anticipación antes de su cita.
@@ -63,7 +63,7 @@ y falta de avisos oportunos. El proceso es manual, ineficiente y frustrante.
 - **RF-05 (Historial):** El sistema debe mostrar al usuario el historial de sus
   citas anteriores y permitir filtrarlas por fecha y especialidad.
 
-  ## Evidencia de Entrevistas Presenciales
+  ## Evidencia de entrevistas presenciales
 
 Se realizaron 4 entrevistas físicas como parte del proceso de discovery.
 Las grabaciones reposan como evidencia del trabajo de campo realizado.
@@ -75,7 +75,7 @@ Las grabaciones reposan como evidencia del trabajo de campo realizado.
 
 ---
 
-## Evidencia de Entrevistas Presenciales
+## Evidencia de entrevistas presenciales
 
 Se realizaron 4 entrevistas físicas como parte del proceso de discovery.
 **Evidencia de audio de las entrevistas:**
