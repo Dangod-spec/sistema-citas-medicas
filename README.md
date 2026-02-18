@@ -1,5 +1,9 @@
 # MediCita — Gestión inteligente de citas médicas
 
+**Estudiante:** Daniel Felipe Godoy   
+**Asigntura:** Arquitectura de Software  
+**Fecha:** Febrero 20 de 2026
+
 ## Sección A: Evidencia de campo
 
 ### El problema
